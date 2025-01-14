@@ -1,1 +1,2 @@
 # MachineLearningDemos
+This repository contains demos highlighting the application of Machine Learning techniques in Data Science. It covers fundamental methods such as regression and classification for quantitative and time series data. Additionally, it includes tree-based methods, reinforcement learning, and convolutional neural network techniques.
